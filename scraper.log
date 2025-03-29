@@ -1,0 +1,437 @@
+2025-03-28 17:32:04,999 - INFO - Iniciando el scraper de Mercado Libre
+2025-03-28 17:32:04,999 - INFO - Iniciando ejecución programada del scraper
+2025-03-28 17:32:04,999 - INFO - Iniciando scraping de Mercado Libre...
+2025-03-28 17:32:04,999 - INFO - Historial de ofertas cargado: 0 ofertas publicadas anteriormente
+2025-03-28 17:32:04,999 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1144
+2025-03-28 17:32:06,163 - INFO - Encontrados 48 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1144
+2025-03-28 17:32:06,167 - INFO - Información de vendidos no encontrada para: Playstation 5 Slim Standard 1tb Bundle Con 2 Juegos Físicos. Usando 0.
+2025-03-28 17:32:06,168 - INFO - Información de vendidos no encontrada para: Silla Gamer Reclinable Giratoria Ergonómica Súper Cómoda. Usando 0.
+2025-03-28 17:32:06,180 - INFO - Información de vendidos no encontrada para: Control Joystick Inalámbrico Microsoft Xbox Elite Wireless Controller Series 2 Negro. Usando 0.
+2025-03-28 17:32:06,182 - INFO - Información de vendidos no encontrada para: Mario Kart 8 Deluxe. Usando 0.
+2025-03-28 17:32:06,183 - INFO - Información de vendidos no encontrada para: Micrófono Shure Sm Sm58-lc Dinámico Cardioide Gris Oscuro Color Gris Oscuro/plateado. Usando 0.
+2025-03-28 17:32:06,183 - INFO - Información de vendidos no encontrada para: Consola Playstation Ps5 Digital Fortnite Cobalt Star 1tb Ssd Color Blanco. Usando 0.
+2025-03-28 17:32:06,183 - INFO - Información de vendidos no encontrada para: Powera Control Alámbrico Para Xbox Series X|s - Red Camo Color Rojo. Usando 0.
+2025-03-28 17:32:06,186 - INFO - Información de vendidos no encontrada para: Super Smash Bros. Ultimate. Usando 0.
+2025-03-28 17:32:06,188 - INFO - Información de vendidos no encontrada para: Ea Sports Fc 25 Nintendo Switch Físico. Usando 0.
+2025-03-28 17:32:06,189 - INFO - Información de vendidos no encontrada para: Silla Ergonómica Oficina Ouo T20 Base De Acero Reposapiés Color Negro Material Del Tapizado Malla. Usando 0.
+2025-03-28 17:32:06,190 - INFO - Información de vendidos no encontrada para: Easysmx X05 Control Bluetooth Inalambrico Gamepad Para Nintendo Switch Pc Android iPhone Móvil,hall Joystick Y Hall Trigger,mando Con 5 Niveles De Vibración Ajustable, Función Turbo. Usando 0.
+2025-03-28 17:32:06,190 - INFO - Información de vendidos no encontrada para: Control Inalámbrico Gamepad Y Joystick Wireless Controller Rooftop Rt-cw01 Pro Negro Con Bluetooth  Y Batería Incorporada De 1000 Mah Para Nintendo Switch. Usando 0.
+2025-03-28 17:32:06,192 - INFO - Información de vendidos no encontrada para: Silla De Escritorio Balam Rush Thunder Rush V2 Gamer Ergonómica Negra Y Roja. Usando 0.
+2025-03-28 17:32:06,193 - INFO - Información de vendidos no encontrada para: Auricular Gamer Inalámbrico Huo Ji X7 Blanco Con Luz Rgb Led. Usando 0.
+2025-03-28 17:32:06,194 - INFO - Información de vendidos no encontrada para: Maono Micrófono Usb Condensador, Microfono Pc Con Chipset De Sonido Profesional 192khz/24bit Para Grabación, Podcast, Streaming, Gamer, Compatible Con Pc Celular Ps5 Mac, Pm461tr. Usando 0.
+2025-03-28 17:32:06,195 - INFO - Información de vendidos no encontrada para: Silla Gamer Yeyiancadira Series 1150, Ergonómica Para Juegos Con Reposabrazos 2d Regulables, Hasta 150kg, Inclinación De Hasta 165°, Soporte Lumbar, Negro/azul. Usando 0.
+2025-03-28 17:32:06,196 - INFO - Información de vendidos no encontrada para: Winmix G7 Kit De Micrófono Dinámico De Tambor De 7 Piezas (metal Completo)  Micrófono De Patada, Tom/snare Y Platillos Para Batería, Voz, Otros Instrumentos Completos Con Clip De Rosca. Usando 0.
+2025-03-28 17:32:06,197 - INFO - Información de vendidos no encontrada para: Micrófono Augerdz Me4-rgb Micrófono Condensador Micrófono De Condensador Color Negro. Usando 0.
+2025-03-28 17:32:06,198 - INFO - Información de vendidos no encontrada para: Silla Gamer Balam Rush Power Rush V2 Ergonomica Reclinable 135° 120kg Gris Piel Sintetica. Usando 0.
+2025-03-28 17:32:06,199 - INFO - Información de vendidos no encontrada para: Control Para Switch Pro, Mando Bluetooth Controlador Gamepad. Usando 0.
+2025-03-28 17:32:06,201 - INFO - Información de vendidos no encontrada para: Powera Enhanced Wired Controller Mario Red White Switch Color Blanco. Usando 0.
+2025-03-28 17:32:06,202 - INFO - Información de vendidos no encontrada para: Funda Para Nintendo Switch Y Modelo Oled Protector Retro Nes, Estuche Rígido Portátil Con 10 Compartimentos Para Cartuchos Y Espacio Para Cables, Audífonos Y Controles, Resistente A Golpes. Usando 0.
+2025-03-28 17:32:06,202 - INFO - Información de vendidos no encontrada para: Estuche De Viaje Ps5 Portal Alta Proteccion Ps5 Accesorios. Usando 0.
+2025-03-28 17:32:06,202 - INFO - Información de vendidos no encontrada para: Nintendo Switch Oled 64gb Color Blanco Y Juego Mario Kart 8. Usando 0.
+2025-03-28 17:32:06,202 - INFO - Información de vendidos no encontrada para: Aiyin Smart Kit De Accesorios Funda Para Nintendo Switch Oled 30 En 1 Negro, 1*funda De Viaje, 2*protector De Pantalla Vidrio, 1*carcasa Transparente, 1*porta Tarjetas De. Usando 0.
+2025-03-28 17:32:06,202 - INFO - Información de vendidos no encontrada para: Práctica Funda Transparente Compatible Con Ps5 Portal Psp. Usando 0.
+2025-03-28 17:32:06,206 - INFO - Información de vendidos no encontrada para: Nintendo Oled Blanco 64gb Y Juegos Mario Party Y Mario Kart. Usando 0.
+2025-03-28 17:32:06,206 - INFO - Información de vendidos no encontrada para: Nintendo Oled Blanco+mario Kart8, Smash Bros, Mario Party. Usando 0.
+2025-03-28 17:32:10,447 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1000
+2025-03-28 17:32:11,670 - INFO - Encontrados 54 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1000
+2025-03-28 17:32:11,671 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Weyon Hd Led Android Tv 32wdsnmx. Usando 0.
+2025-03-28 17:32:11,672 - INFO - Información de vendidos no encontrada para: Televisión Redv 32 Pulgadas Smart Tv Android 14 Hd. Usando 0.
+2025-03-28 17:32:11,672 - INFO - ID de producto extraído: 37358897
+2025-03-28 17:32:13,543 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/monster-bocina-80w-bluetooth-altavoz-subwoofer-exterior-impermeable-ipx5-rgb-6-mode-sonido-estereo-microfono-incorporado-aux-tf-usb-entrada-de-microfono-recargable-inalambrico-altavoz-exteriores-m172/p/MLM37358897
+2025-03-28 17:32:13,547 - INFO - Información de vendidos no encontrada para: Monster Bocina 80w Bluetooth Altavoz Subwoofer Exterior Impermeable Ipx5 Rgb 6 Mode Sonido Estéreo Micrófono Incorporado Aux Tf Usb Entrada De Micrófono Recargable Inalámbrico Altavoz Exteriores M172. Usando 0.
+2025-03-28 17:32:13,547 - INFO - ID de producto extraído: 21885016
+2025-03-28 17:32:15,507 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/auriculares-gamer-inalambricos-dytimeem-d9002-plateado/p/MLM21885016
+2025-03-28 17:32:15,515 - INFO - Información de vendidos no encontrada para: Auriculares Gamer Inalámbricos Dytimeem D9002 Plateado. Usando 0.
+2025-03-28 17:32:15,515 - INFO - ID de producto extraído: 42819020
+2025-03-28 17:32:17,177 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/jokben-jokben40-bt1-android-tv-pantallas-40-pulgadas-smart-tv/p/MLM42819020
+2025-03-28 17:32:17,183 - INFO - Información de vendidos no encontrada para: Jokben Jokben40-bt1 Android Tv Pantallas 40 Pulgadas Smart Tv. Usando 0.
+2025-03-28 17:32:17,185 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot43fle11 43  Full Hd Led. Usando 0.
+2025-03-28 17:32:17,186 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 55 Pulgadas Cuory Google Tv 4k Uhd Dled. Usando 0.
+2025-03-28 17:32:17,187 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Cuory Android Tv Dled Hd Bluetooth Dolby Audio. Usando 0.
+2025-03-28 17:32:17,188 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot32hle11 32  Hd Dled. Usando 0.
+2025-03-28 17:32:17,190 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=p4znEMq3BSG2KXnG%2BocP15HliQEZQcyzN1mjjLKreMek6x25Klo6gZ8H53XOMno57qo7sdKUwzec0etsr8fF7wulxto12Ppj59S6d2pYaPzgBlvpsvC3wck2Rm1L8Y19lDH%2BUSC1EQgKhjMBdWQV8JOpQPi61cBzY4gmso8DkEHdKwfnMfztJFMjvZYzq0izL4hsukSbTVwvveFsAKX%2Bz0oVCk5UR6A6zAN3aTHL4HifX%2BkoZz6UrJLTvxc0jiRpOgymIrdg1BcluBo%2FDNR%2Bwd7wvDkK83rYfA26IX9IGHqQ47NSzg3Q%2FIM69Av9KUH8zsiHHYYKBSjpS%2FlFjN7jk7f2t%2Fh2%2FbsYLE4xt5z6ltPKk5w%2FOHWABLB4cMB1Vx%2FFZTXwdBKXFwo4yXaOO%2BLUMKbFVDzaqV9ocBL5zyTB6igJJrU%2BTd1W%2BjDsKHfhS12uQeEPno3rtIyHvAdG8DfLr75XeCuTvxJh9swgW98VQ9wUR5UqYdjED6LkGlQ9ZAHCVDAL4jywXRXRutH4uP%2FpluwvEKuwSsQh5kRNY9sMr0M%3D&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-3462797830-proyector-portatil-profesional-4k-android-wifi-6-hd-1080p-_JM%23searchVariation%3D0%26position%3D13%26search_layout%3Dgrid%26deal_print_id%3D0f0f8cd0-a0b7-43f9-a661-d041e77c98d1%26tracking_id%3D32a4593b-84c9-45af-aa1f-ecb5aa0170e7&lm=428253643&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=0f0f8cd0-a0b7-43f9-a661-d041e77c98d1&position=13&tracking_id=32a4593b-84c9-45af-aa1f-ecb5aa0170e7
+2025-03-28 17:32:17,192 - INFO - Información de vendidos no encontrada para: Proyector Portatil Profesional 4k Android Wifi 6 Hd 1080p. Usando 0.
+2025-03-28 17:32:17,192 - INFO - ID de producto extraído: 40679465
+2025-03-28 17:32:18,941 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/soporte-universal-paratv-pantalla-de-23-a-75-pulgadas-con-patas-individuales-y-ajustes-de-altura-compatibilidad-universal-y-pantallas-curvas/p/MLM40679465
+2025-03-28 17:32:18,946 - INFO - Información de vendidos no encontrada para: Soporte Universal Paratv Pantalla De 23  A 75  Pulgadas Con Patas Individuales Y Ajustes De Altura Compatibilidad Universal Y Pantallas Curvas. Usando 0.
+2025-03-28 17:32:18,947 - INFO - ID de producto extraído: 23315049
+2025-03-28 17:32:20,634 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/smart-tv-pantalla-weyon-43-pulgadas-full-hd-android-tv-hdmiusb-60hz-43wdsnmx/p/MLM23315049
+2025-03-28 17:32:20,637 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla Weyon 43 Pulgadas Full Hd Android Tv Hdmi/usb 60hz 43wdsnmx. Usando 0.
+2025-03-28 17:32:20,639 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 43 Pulgadas Cuory Android Tv Cuo-hdtv43 43'' Full Hd Led. Usando 0.
+2025-03-28 17:32:20,640 - INFO - Información de vendidos no encontrada para: Bocina Portátil Aiwa Aws600bt Cilíndrica Negro, 600w, Bluetooth, Usb, Resistente Al Agua, Con Luces Led. Usando 0.
+2025-03-28 17:32:20,641 - INFO - Información de vendidos no encontrada para: Smart Tv LG 50ur7800psb 50'' 4k Led. Usando 0.
+2025-03-28 17:32:20,642 - INFO - Información de vendidos no encontrada para: Proyector Profesional 4k Android 8000lm Led 1080p Hy300 Pro. Usando 0.
+2025-03-28 17:32:20,643 - INFO - Información de vendidos no encontrada para: Haylou S30 Pro Anc Audífonos Diadema Gamer Inalámbricos/con Micrófono, Bluetooth 5.4, Llamadas Manos Libres, Cancelación De Ruido Adaptativa De - 43db, Controlador 40mm, 80h Reproducción, Azul Oscuro. Usando 0.
+2025-03-28 17:32:20,644 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Signa Android Tv Led Hd. Usando 0.
+2025-03-28 17:32:20,645 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv Hikers 32 Pulgadas Led Hd Con Dolby/aac. Usando 0.
+2025-03-28 17:32:20,646 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv Hisense 32 32a4hnr Roku Hd Dolby Audio. Usando 0.
+2025-03-28 17:32:20,647 - INFO - Información de vendidos no encontrada para: Pantalla LG Uhd Ai Thinq 70 4k Smart Tv 70ur8750psa. Usando 0.
+2025-03-28 17:32:20,649 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 43 Pulgadas Signa Android Tv Led Hd. Usando 0.
+2025-03-28 17:32:20,650 - INFO - Información de vendidos no encontrada para: Home Theater 100w Barra De Sonido Y Subwoofer Con Bluetooth. Usando 0.
+2025-03-28 17:32:20,651 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Android Tv Jokben Televisores Jokben32-bt1 Negro. Usando 0.
+2025-03-28 17:32:20,653 - INFO - Información de vendidos no encontrada para: Pantalla Television Redv 32 Pulgadas Led Hd 720 Usb Hdmi Sin Marco. Usando 0.
+2025-03-28 17:32:20,654 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv 50 Pulgadas Weyon Android 4k Television. Usando 0.
+2025-03-28 17:32:20,655 - INFO - Información de vendidos no encontrada para: Proyector Portatil Profesional 4k Android Wifi 6 Hd 1080p 10000lm Isinbox P30 Pro. Usando 0.
+2025-03-28 17:32:20,656 - INFO - Información de vendidos no encontrada para: Pantalla 32 Pulgadas Weyon Led Hd Hdmi Usb 32wadmx. Usando 0.
+2025-03-28 17:32:20,657 - INFO - Información de vendidos no encontrada para: Onn 65 Pulgadas Pantalla 4k Uhd (2160p) Led Roku Smart Tv. Usando 0.
+2025-03-28 17:32:20,659 - INFO - Información de vendidos no encontrada para: Audífonos Inalámbricos Skullcandy Over-ear Crusher Evo Negro. Usando 0.
+2025-03-28 17:32:20,660 - INFO - Información de vendidos no encontrada para: Auriculares In Ear Htc Tws12 Gamer Inalámbricos Bluetooth 5.3 Con Luz Led Audifonos Manos Libres Con Estuche Negro Earbuds Con Microfonos Inalambricos Compatible Con Huawei Xiaomi Sony Samsung iPhone. Usando 0.
+2025-03-28 17:32:20,662 - INFO - Información de vendidos no encontrada para: Vegoos Yg381 Proyector Inteligente Exterior 4k Con Wifi6 Y Bluetoothproyector Portátil De 1000 Ansi Native 1080p Ai Auto-focus Color Negro. Usando 0.
+2025-03-28 17:32:20,663 - INFO - Información de vendidos no encontrada para: Qcy H3 Lite Anc Auriculares Bluetooth 5.3 Diadema Plegables Color Negro. Usando 0.
+2025-03-28 17:32:20,664 - INFO - Información de vendidos no encontrada para: Bigview Proyector T08 Nativa 1080p 4k Fhd, Android 9.0, Dual Wifi 5.0, Proyección De 32-135 Pulgadas Color Gris. Usando 0.
+2025-03-28 17:32:20,665 - INFO - Información de vendidos no encontrada para: Proyector 4k Fhd Android Autofocus 19000 Lumenes Evitación Automática De Obstáculos Professional 60 Hz Bluetooth Projector Dual Wifi 6 Sonido Hifi Con Soporte Ajustable 3rg Ram + 16gb Rom. Usando 0.
+2025-03-28 17:32:20,666 - INFO - Información de vendidos no encontrada para: Bocina Bluetooth Portátil Altavoz Waterproof Con Micrófono Lacasi Amc9 Color Negro. Usando 0.
+2025-03-28 17:32:20,667 - INFO - Información de vendidos no encontrada para: Parlante Aiwa Awss40bt Portátil Bluetooth Con Karaoke. Usando 0.
+2025-03-28 17:32:24,809 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1648
+2025-03-28 17:32:26,131 - INFO - Encontrados 53 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1648
+2025-03-28 17:32:26,132 - INFO - ID de producto extraído: 37538370
+2025-03-28 17:32:27,807 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/notebook-2-en-1-intel-i7-9750h-16gb-ram-512gb-ssd-156in-color-gris/p/MLM37538370
+2025-03-28 17:32:27,812 - INFO - Información de vendidos no encontrada para: Notebook 2 En 1 Intel I7 9750h 16gb Ram 512gb Ssd 15.6in Color Gris. Usando 0.
+2025-03-28 17:32:27,813 - INFO - ID de producto extraído: 44499048
+2025-03-28 17:32:29,691 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/winmix-g7-kit-de-microfono-dinamico-de-tambor-de-7-piezas-metal-completo-microfono-de-patada-tomsnare-y-platillos-para-bateria-voz-otros-instrumentos-completos-con-clip-de-rosca/p/MLM44499048
+2025-03-28 17:32:29,696 - INFO - Información de vendidos no encontrada para: Winmix G7 Kit De Micrófono Dinámico De Tambor De 7 Piezas (metal Completo)  Micrófono De Patada, Tom/snare Y Platillos Para Batería, Voz, Otros Instrumentos Completos Con Clip De Rosca. Usando 0.
+2025-03-28 17:32:29,697 - INFO - ID de producto extraído: 44870436
+2025-03-28 17:32:31,484 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/tablet-android-14-aorzoo-101-hd-1264gb-ram-1tb-ampliable-wifi-6-octa-core-pad-bluetooth-50-camara-dual-5mp13mp-gris-tableta-con-funda-plegable-teclado-raton-lapiz-y-gms-certificacion-tablets/p/MLM44870436
+2025-03-28 17:32:31,489 - INFO - Información de vendidos no encontrada para: Tablet Android 14 Aorzoo 10.1'' Hd 12+64gb Ram 1tb Ampliable Wifi 6 Octa-core Pad Bluetooth 5.0 , Cámara Dual 5mp+13mp, Gris Tableta Con Funda Plegable Teclado Ratón Lápiz Y Gms Certificación Tablets. Usando 0.
+2025-03-28 17:32:31,490 - INFO - Información de vendidos no encontrada para: Silla Gamer Reclinable Giratoria Ergonómica Súper Cómoda. Usando 0.
+2025-03-28 17:32:31,491 - INFO - Información de vendidos no encontrada para: Bocina Jbl Go 4 Jblgo4 Portátil Con Bluetooth Waterproof Negra 127v. Usando 0.
+2025-03-28 17:32:31,492 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=Yk7blH4lU%2B3bol3Y9YGV0jfi%2BtqKe31ps%2B6YpKIrbuEBEzefscSTXIm2%2FDfqJWgDTUBP8GKKO0LSE8xduAJn3F5cuOL%2Bm7JwycOUcGHpA4wMaIQVhyVsIxz8H8rt3sdu2rtB8Z5GVkEoSpSXHtgKpv%2FLyFGRmdMEKLVFIkCmfMyAK19zFgG0DH86xJ27HU5292Hys5bGpl%2FPUglWWVfq1GCbivrBuE5%2BdnduENtiXzaTGa%2Bi96%2BH4YMnMcfabZb3EMRm5DOkl%2FvOgVfJ%2Bod8MzsKWh3rKkbDo2IttFleBPEyGkEMnW23%2FnOxXdrbdxKAvt0viO%2FC7hgQBGkxlFfAyHivb0I6rKOadZ4Gwqi%2BMatzpV2rF8THoMrEoTO22tXDFGxwVQqcHXzcp5DlCQHmt1TXC93IhCiyJGqZ4eKVwO3yjALeMFTEKqewYkanm4zyCpJSu8FHU0TC%2BOIsB2fL2Iyupv6vmmKMRbgA%2Fuy9bGOjGdugAZEFT14V%2BjeT0CrczCAIiYNkG9CAeK9w0Y8bAp%2BSCAoX6wupZ9wAzDOu&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-2005653579-silla-gamer-playfever-omega-escritorio-ergonomica-reclinable-_JM%23searchVariation%3D0%26position%3D13%26search_layout%3Dgrid%26deal_print_id%3D0460a0ea-d909-49f3-8a6b-2f16c1f5c5e1%26tracking_id%3Dca572576-4dd8-4b17-b284-26774a8463b7&lm=-690290035&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=0460a0ea-d909-49f3-8a6b-2f16c1f5c5e1&position=13&tracking_id=ca572576-4dd8-4b17-b284-26774a8463b7
+2025-03-28 17:32:31,493 - INFO - ID de producto extraído: 2296785194
+2025-03-28 17:32:33,416 - INFO - URL final obtenida: https://articulo.mercadolibre.com.mx/MLM-2296785194-protector-voltaje-ajustable-refrigerador-aire-acondicionado-_JM
+2025-03-28 17:32:33,419 - INFO - Información de vendidos no encontrada para: Protector Voltaje Ajustable, Refrigerador Aire Acondicionado. Usando 0.
+2025-03-28 17:32:33,420 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=6ntmNQiCHlBZ%2BySBfjecOAUIvKB8Jc7qOxVtEj0ZtZEoUnnBiVleMHsYhHsr033TTkoMpBSVG0w9Qt4XsqyP09I%2Fy8cs43uwE%2Fp5YSNp%2FsG0Sd2wjE%2FFHc1R5gO0mOdZdWVIbxGH1Jmvm%2BLqjFWdKEtzXWpsppkFrCfKgTPt5%2F8n6m955w1%2Bt883RD3abOMQyWREIb3fV3s5tkCJQjyVWgfqKHAUbFYLUgPJ5CGgv1gJ72YMcRSCwX1lkpvmNIuBVLY7J%2BlfBVzWExDnVC2q4BIjgnWxxFjscDnCroLsNfvTM2DzYp5ILve1YEDiZguXGJKacSrVlzUmJD2%2B9Rjeu67s%2FP0%2F2jSW9yNFuEBnceJzXDjdJe9gsdKQEfkzHkOB1KZ1OIpcHPSxi06xJlPDvkWo11Am9D3zoCWfzLiMxq4VtuY%2FczBwbwvfBJKtiNZriGB5CrvjbpHQ43rbMuTsWs3lfC%2BQYkMDGCbVx0mN2Tpm9mEpKrIArp4EQlkifdEG7TlidHna5FqgH5S2YULY0uD7Fb%2BXahE4X8bxda51Gg%3D%3D&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-2212239859-laptop-intel-i9-12900hk-ram-32gb-ssd-1t-mx550-win-11-16in-_JM%23searchVariation%3D0%26position%3D15%26search_layout%3Dgrid%26deal_print_id%3D0460a0ea-d909-49f3-8a6b-2f16c1f5c5e1%26tracking_id%3Dca572576-4dd8-4b17-b284-26774a8463b7&lm=1369953380&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=0460a0ea-d909-49f3-8a6b-2f16c1f5c5e1&position=15&tracking_id=ca572576-4dd8-4b17-b284-26774a8463b7
+2025-03-28 17:32:33,421 - INFO - Información de vendidos no encontrada para: Laptop Intel I9 12900hk Ram 32gb Ssd 1t Mx550 Win 11 16in. Usando 0.
+2025-03-28 17:32:33,422 - INFO - Información de vendidos no encontrada para: Qian Monitor Led 21.5 ,full Hd, 1920x1080p, 75hz, Hdmi, Vga, Vesa 75 X 75,para Pc/laptop/ Xbox Series S, Qm2151f. Usando 0.
+2025-03-28 17:32:33,424 - INFO - Información de vendidos no encontrada para: Impresora Multifunción Monocromática Brother Dcp Dcp-1617nw Con Wifi. Usando 0.
+2025-03-28 17:32:33,426 - INFO - Información de vendidos no encontrada para: Dell Latitude 3310 8va Touchscreen 256gb Laptop Apta Win 11. Usando 0.
+2025-03-28 17:32:33,428 - INFO - Información de vendidos no encontrada para: 30 Metros Cable Red Plano Categoria 6 Cat6 Rj45 Utp Ethernet Tienda De México. Usando 0.
+2025-03-28 17:32:33,429 - INFO - Información de vendidos no encontrada para: Laptop Hp 15-fd0999nr Core I5-1235u 16gb Ram 512gb Ssd 1920 X 1080 Full Hd 15.6 Windows 11. Usando 0.
+2025-03-28 17:32:33,430 - INFO - Información de vendidos no encontrada para: iPad 10 Generación A2696 10.9 Pulgadas 64gb Plata 4gb De Memoria Ram. Usando 0.
+2025-03-28 17:32:33,431 - INFO - Información de vendidos no encontrada para: Monitor Acteck Captive Vivid Sp270 Led 27  Full Hd 1080p Negro 127v 1080p 75 Hz Hdmi Vga 5ms. Usando 0.
+2025-03-28 17:32:33,432 - INFO - Información de vendidos no encontrada para: Micrófono Shure Sm Sm58-lc Dinámico Cardioide Gris Oscuro Color Gris Oscuro/plateado. Usando 0.
+2025-03-28 17:32:33,433 - INFO - Información de vendidos no encontrada para: Tablet Samsung Galaxy Tab A9 8 64gb Y 4gb Ram Color Navy Color Azul. Usando 0.
+2025-03-28 17:32:33,434 - INFO - Información de vendidos no encontrada para: Monitor Samsung Cf39 Series C27f391fh Lc27f391fhnxza 27   110v Color Blanco. Usando 0.
+2025-03-28 17:32:33,435 - INFO - Información de vendidos no encontrada para: Exceline Gsm-n Protector De Voltaje Para Refrigerador O Enfriador Doméstico. Usando 0.
+2025-03-28 17:32:33,437 - INFO - Información de vendidos no encontrada para: Tablet 10'' Hd 22gb+128gb Rom Android 14 5g-wifi Cámara Dual. Usando 0.
+2025-03-28 17:32:33,438 - INFO - Información de vendidos no encontrada para: Disco Sólido Ssd Interno Seagate Xbox Series Stjr1000400 1tb Negro. Usando 0.
+2025-03-28 17:32:33,439 - INFO - Información de vendidos no encontrada para: Laptop Moderness Lt1505 16+512g 15.6 1920*1080p Windows 11. Usando 0.
+2025-03-28 17:32:33,440 - INFO - Información de vendidos no encontrada para: Impresora Tickets Térmica Esc/pos Con Corte Automático 80mm. Usando 0.
+2025-03-28 17:32:33,441 - INFO - Información de vendidos no encontrada para: 2025 Tablet 10'' Android 14,22gb+128gb 8000mah 8-core Wifi 6. Usando 0.
+2025-03-28 17:32:33,442 - INFO - Información de vendidos no encontrada para: Laptop Asus E510ma-br1532w Intel Celeron-n4020 4gb Ram 128gb W11h Peacock Blue. Usando 0.
+2025-03-28 17:32:36,293 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?filter=discount_over_30
+2025-03-28 17:32:38,091 - INFO - Encontrados 46 productos en https://www.mercadolibre.com.mx/ofertas?filter=discount_over_30
+2025-03-28 17:32:38,093 - INFO - Información de vendidos no encontrada para: Ventilador De Torre Shawty® 40 Pulgadas 100cm Con Control Remoto, 5 Velocidades Temporizador 12h, Silencioso Y Portátil, Ideal Dormitorio, Oficina, Cocina. Usando 0.
+2025-03-28 17:32:38,094 - INFO - Información de vendidos no encontrada para: Mesa Plegable Portátil De Plástico 180 Cm Tipo Portafolio,. Usando 0.
+2025-03-28 17:32:38,094 - INFO - Información de vendidos no encontrada para: Protector Solar Facial Sin Color Neutrogena Sun Fresh Derm Care Niacinamida Fps50+ 40 G. Usando 0.
+2025-03-28 17:32:38,096 - INFO - Información de vendidos no encontrada para: Maquina Trituradora De Hielo Para Raspados Electrica Color Gris. Usando 0.
+2025-03-28 17:32:38,097 - INFO - Información de vendidos no encontrada para: U Bárbara Pijama Quirúrgica Corte Recto Con Bolsas Uniforme. Usando 0.
+2025-03-28 17:32:38,098 - INFO - Información de vendidos no encontrada para: Gel Cerave Limpiador Espumoso Piel Normal A Grasa Sin Perfume De 473 Ml Día Y Noche. Usando 0.
+2025-03-28 17:32:38,099 - INFO - Información de vendidos no encontrada para: Enfriador De Aire Acondicionado Portátil Ventilador Frio 6l. Usando 0.
+2025-03-28 17:32:38,100 - INFO - Información de vendidos no encontrada para: Espejo Led Baño 50x70cm Touch 3 Modo Con Función Antivaho. Usando 0.
+2025-03-28 17:32:38,101 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Weyon Hd Led Android Tv 32wdsnmx. Usando 0.
+2025-03-28 17:32:38,103 - INFO - Información de vendidos no encontrada para: Pocophone Poco M5s Dual Sim 256 Gb Gris 8 Gb Ram. Usando 0.
+2025-03-28 17:32:38,105 - INFO - Información de vendidos no encontrada para: Tenis Para Hombre Nike Court Royale. Usando 0.
+2025-03-28 17:32:38,106 - INFO - Información de vendidos no encontrada para: Televisión Redv 32 Pulgadas Smart Tv Android 14 Hd. Usando 0.
+2025-03-28 17:32:38,107 - INFO - Información de vendidos no encontrada para: Guantes De Nitrilo Vinil Libre De Latex Sin Polvo Azul Negro. Usando 0.
+2025-03-28 17:32:38,108 - INFO - Información de vendidos no encontrada para: Infinix Note 40 Pro Dual Sim 256 Gb Dorado 8 Gb Ram. Usando 0.
+2025-03-28 17:32:38,109 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot43fle11 43  Full Hd Led. Usando 0.
+2025-03-28 17:32:38,110 - INFO - Información de vendidos no encontrada para: Playstation 5 Slim Standard 1tb Bundle Con 2 Juegos Físicos. Usando 0.
+2025-03-28 17:32:38,112 - INFO - Información de vendidos no encontrada para: Xiaomi Poco M5s 8gb 256gb 6.43 Amoled 64mp 5000mah 33w Azul. Usando 0.
+2025-03-28 17:32:38,112 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 55 Pulgadas Cuory Google Tv 4k Uhd Dled. Usando 0.
+2025-03-28 17:32:38,113 - INFO - Información de vendidos no encontrada para: Tenis De Skateboarding Nike Sb Alleyoop. Usando 0.
+2025-03-28 17:32:38,114 - INFO - Información de vendidos no encontrada para: Llave De Impacto Inalámbrica Pistola Taladro Eléctrica 2pila. Usando 0.
+2025-03-28 17:32:38,115 - INFO - Información de vendidos no encontrada para: Aspiradora De Mano Portátil Inalambrica Para Auto Y Hogar. Usando 0.
+2025-03-28 17:32:38,116 - INFO - Información de vendidos no encontrada para: Colchón Inflable Queen Size + Bomba Inflable Cama Resistente. Usando 0.
+2025-03-28 17:32:38,117 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Cuory Android Tv Dled Hd Bluetooth Dolby Audio. Usando 0.
+2025-03-28 17:32:38,118 - INFO - Información de vendidos no encontrada para: Limpiador Cerave Control Imperfecciones Para Piel Con Tendencia Acnéica De Todas Las Edades De Dia Y Noche 236ml. Usando 0.
+2025-03-28 17:32:38,120 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot32hle11 32  Hd Dled. Usando 0.
+2025-03-28 17:32:38,121 - INFO - Información de vendidos no encontrada para: Eucerin Control Toque Seco Protector Solar Fps50+ 50ml. Usando 0.
+2025-03-28 17:32:38,122 - INFO - Información de vendidos no encontrada para: Guante Vinil Synmax Nitrilo Libre De Latex. Usando 0.
+2025-03-28 17:32:38,123 - INFO - Información de vendidos no encontrada para: Tenis Para Hombre Nike Full Force Low Gris Fb1362-005. Usando 0.
+2025-03-28 17:32:38,124 - INFO - Información de vendidos no encontrada para: Beyond Vitamins | Magnesio Complex | Con 4 Magnesios: Citrato De Magnesio, Glicinato De Magnesio, Gluconato De Magnesio Y Óxido De Magnesio | Magnesium Suplemento Alimenticio - 180 Cápsulas. Usando 0.
+2025-03-28 17:32:38,125 - INFO - Información de vendidos no encontrada para: Toallitas Húmedas Huggies Supreme 12 Paquetes Con 80 Toallitas C/uno. Usando 0.
+2025-03-28 17:32:42,245 - INFO - Análisis completado: 201 productos analizados, 119 ofertas válidas encontradas
+2025-03-28 17:32:42,246 - INFO - Mejor oferta seleccionada: 2025 Tablet 10'' Android 14,22gb+128gb 8000mah 8-core Wifi 6 - Descuento: 70% - Score: 105.0
+2025-03-28 17:32:42,255 - INFO - Scraper programado para ejecutarse cada 8 horas (00:00, 08:00, 16:00)
+2025-03-28 17:33:46,729 - INFO - Scraper detenido manualmente
+2025-03-28 17:33:53,330 - INFO - Iniciando el scraper de Mercado Libre
+2025-03-28 17:33:53,330 - INFO - Iniciando ejecución programada del scraper
+2025-03-28 17:33:53,330 - INFO - Iniciando scraping de Mercado Libre...
+2025-03-28 17:33:53,330 - INFO - Historial de ofertas cargado: 0 ofertas publicadas anteriormente
+2025-03-28 17:33:53,330 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1144
+2025-03-28 17:33:54,412 - INFO - Encontrados 48 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1144
+2025-03-28 17:33:54,412 - INFO - Información de vendidos no encontrada para: Playstation 5 Slim Standard 1tb Bundle Con 2 Juegos Físicos. Usando 0.
+2025-03-28 17:33:54,428 - INFO - Información de vendidos no encontrada para: Silla Gamer Reclinable Giratoria Ergonómica Súper Cómoda. Usando 0.
+2025-03-28 17:33:54,428 - INFO - Información de vendidos no encontrada para: Control Joystick Inalámbrico Microsoft Xbox Elite Wireless Controller Series 2 Negro. Usando 0.
+2025-03-28 17:33:54,428 - INFO - Información de vendidos no encontrada para: Mario Kart 8 Deluxe. Usando 0.
+2025-03-28 17:33:54,431 - INFO - Información de vendidos no encontrada para: Micrófono Shure Sm Sm58-lc Dinámico Cardioide Gris Oscuro Color Gris Oscuro/plateado. Usando 0.
+2025-03-28 17:33:54,432 - INFO - Información de vendidos no encontrada para: Consola Playstation Ps5 Digital Fortnite Cobalt Star 1tb Ssd Color Blanco. Usando 0.
+2025-03-28 17:33:54,433 - INFO - Información de vendidos no encontrada para: Super Smash Bros. Ultimate. Usando 0.
+2025-03-28 17:33:54,435 - INFO - Información de vendidos no encontrada para: Easysmx X05 Control Bluetooth Inalambrico Gamepad Para Nintendo Switch Pc Android iPhone Móvil,hall Joystick Y Hall Trigger,mando Con 5 Niveles De Vibración Ajustable, Función Turbo. Usando 0.
+2025-03-28 17:33:54,436 - INFO - Información de vendidos no encontrada para: Ea Sports Fc 25 Nintendo Switch Físico. Usando 0.
+2025-03-28 17:33:54,436 - INFO - Información de vendidos no encontrada para: Powera Control Alámbrico Para Xbox Series X|s - Red Camo Color Rojo. Usando 0.
+2025-03-28 17:33:54,437 - INFO - Información de vendidos no encontrada para: Silla Ergonómica Oficina Ouo T20 Base De Acero Reposapiés Color Negro Material Del Tapizado Malla. Usando 0.
+2025-03-28 17:33:54,438 - INFO - Información de vendidos no encontrada para: Control Inalámbrico Gamepad Y Joystick Wireless Controller Rooftop Rt-cw01 Pro Negro Con Bluetooth  Y Batería Incorporada De 1000 Mah Para Nintendo Switch. Usando 0.
+2025-03-28 17:33:54,440 - INFO - Información de vendidos no encontrada para: Silla De Escritorio Balam Rush Thunder Rush V2 Gamer Ergonómica Negra Y Roja. Usando 0.
+2025-03-28 17:33:54,441 - INFO - Información de vendidos no encontrada para: Nintendo Switch Oled 64gb Color Blanco Y Juego Mario Kart 8. Usando 0.
+2025-03-28 17:33:54,442 - INFO - Información de vendidos no encontrada para: Auricular Gamer Inalámbrico Huo Ji X7 Blanco Con Luz Rgb Led. Usando 0.
+2025-03-28 17:33:54,442 - INFO - Información de vendidos no encontrada para: Maono Micrófono Usb Condensador, Microfono Pc Con Chipset De Sonido Profesional 192khz/24bit Para Grabación, Podcast, Streaming, Gamer, Compatible Con Pc Celular Ps5 Mac, Pm461tr. Usando 0.
+2025-03-28 17:33:54,444 - INFO - Información de vendidos no encontrada para: Silla Gamer Yeyiancadira Series 1150, Ergonómica Para Juegos Con Reposabrazos 2d Regulables, Hasta 150kg, Inclinación De Hasta 165°, Soporte Lumbar, Negro/azul. Usando 0.
+2025-03-28 17:33:54,445 - INFO - Información de vendidos no encontrada para: Winmix G7 Kit De Micrófono Dinámico De Tambor De 7 Piezas (metal Completo)  Micrófono De Patada, Tom/snare Y Platillos Para Batería, Voz, Otros Instrumentos Completos Con Clip De Rosca. Usando 0.
+2025-03-28 17:33:54,446 - INFO - Información de vendidos no encontrada para: Silla Gamer Balam Rush Power Rush V2 Ergonomica Reclinable 135° 120kg Gris Piel Sintetica. Usando 0.
+2025-03-28 17:33:54,447 - INFO - Información de vendidos no encontrada para: Micrófono Augerdz Me4-rgb Micrófono Condensador Micrófono De Condensador Color Negro. Usando 0.
+2025-03-28 17:33:54,448 - INFO - Información de vendidos no encontrada para: Control Para Switch Pro, Mando Bluetooth Controlador Gamepad. Usando 0.
+2025-03-28 17:33:54,449 - INFO - Información de vendidos no encontrada para: Estuche De Viaje Ps5 Portal Alta Proteccion Ps5 Accesorios. Usando 0.
+2025-03-28 17:33:54,450 - INFO - Información de vendidos no encontrada para: Powera Enhanced Wired Controller Mario Red White Switch Color Blanco. Usando 0.
+2025-03-28 17:33:54,451 - INFO - Información de vendidos no encontrada para: Funda Para Nintendo Switch Y Modelo Oled Protector Retro Nes, Estuche Rígido Portátil Con 10 Compartimentos Para Cartuchos Y Espacio Para Cables, Audífonos Y Controles, Resistente A Golpes. Usando 0.
+2025-03-28 17:33:54,452 - INFO - Información de vendidos no encontrada para: Aiyin Smart Kit De Accesorios Funda Para Nintendo Switch Oled 30 En 1 Negro, 1*funda De Viaje, 2*protector De Pantalla Vidrio, 1*carcasa Transparente, 1*porta Tarjetas De. Usando 0.
+2025-03-28 17:33:54,453 - INFO - Información de vendidos no encontrada para: Práctica Funda Transparente Compatible Con Ps5 Portal Psp. Usando 0.
+2025-03-28 17:33:54,454 - INFO - Información de vendidos no encontrada para: Nintendo Oled Blanco 64gb Y Juegos Mario Party Y Mario Kart. Usando 0.
+2025-03-28 17:33:59,445 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1000
+2025-03-28 17:34:00,628 - INFO - Encontrados 48 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1000
+2025-03-28 17:34:00,628 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Weyon Hd Led Android Tv 32wdsnmx. Usando 0.
+2025-03-28 17:34:00,628 - INFO - Información de vendidos no encontrada para: Televisión Redv 32 Pulgadas Smart Tv Android 14 Hd. Usando 0.
+2025-03-28 17:34:00,628 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot43fle11 43  Full Hd Led. Usando 0.
+2025-03-28 17:34:00,628 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 55 Pulgadas Cuory Google Tv 4k Uhd Dled. Usando 0.
+2025-03-28 17:34:00,628 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Cuory Android Tv Dled Hd Bluetooth Dolby Audio. Usando 0.
+2025-03-28 17:34:00,640 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot32hle11 32  Hd Dled. Usando 0.
+2025-03-28 17:34:00,642 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 43 Pulgadas Cuory Android Tv Cuo-hdtv43 43'' Full Hd Led. Usando 0.
+2025-03-28 17:34:00,643 - INFO - Información de vendidos no encontrada para: Bocina Portátil Aiwa Aws600bt Cilíndrica Negro, 600w, Bluetooth, Usb, Resistente Al Agua, Con Luces Led. Usando 0.
+2025-03-28 17:34:00,644 - INFO - Información de vendidos no encontrada para: Proyector Profesional 4k Android 8000lm Led 1080p Hy300 Pro. Usando 0.
+2025-03-28 17:34:00,645 - INFO - Información de vendidos no encontrada para: Smart Tv LG 50ur7800psb 50'' 4k Led. Usando 0.
+2025-03-28 17:34:00,647 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Signa Android Tv Led Hd. Usando 0.
+2025-03-28 17:34:00,647 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv Hikers 32 Pulgadas Led Hd Con Dolby/aac. Usando 0.
+2025-03-28 17:34:00,649 - INFO - Información de vendidos no encontrada para: Haylou S30 Pro Anc Audífonos Diadema Gamer Inalámbricos/con Micrófono, Bluetooth 5.4, Llamadas Manos Libres, Cancelación De Ruido Adaptativa De - 43db, Controlador 40mm, 80h Reproducción, Azul Oscuro. Usando 0.
+2025-03-28 17:34:00,650 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 43 Pulgadas Signa Android Tv Led Hd. Usando 0.
+2025-03-28 17:34:00,651 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv Hisense 32 32a4hnr Roku Hd Dolby Audio. Usando 0.
+2025-03-28 17:34:00,652 - INFO - Información de vendidos no encontrada para: Pantalla LG Uhd Ai Thinq 70 4k Smart Tv 70ur8750psa. Usando 0.
+2025-03-28 17:34:00,653 - INFO - Información de vendidos no encontrada para: Home Theater 100w Barra De Sonido Y Subwoofer Con Bluetooth. Usando 0.
+2025-03-28 17:34:00,654 - INFO - Información de vendidos no encontrada para: Pantalla Television Redv 32 Pulgadas Led Hd 720 Usb Hdmi Sin Marco. Usando 0.
+2025-03-28 17:34:00,655 - INFO - Información de vendidos no encontrada para: Onn 65 Pulgadas Pantalla 4k Uhd (2160p) Led Roku Smart Tv. Usando 0.
+2025-03-28 17:34:00,656 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Android Tv Jokben Televisores Jokben32-bt1 Negro. Usando 0.
+2025-03-28 17:34:00,657 - INFO - Información de vendidos no encontrada para: Proyector Portatil Profesional 4k Android Wifi 6 Hd 1080p 10000lm Isinbox P30 Pro. Usando 0.
+2025-03-28 17:34:00,657 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv 50 Pulgadas Weyon Android 4k Television. Usando 0.
+2025-03-28 17:34:00,657 - INFO - Información de vendidos no encontrada para: Audífonos Inalámbricos Skullcandy Over-ear Crusher Evo Negro. Usando 0.
+2025-03-28 17:34:00,657 - INFO - Información de vendidos no encontrada para: Pantalla 32 Pulgadas Weyon Led Hd Hdmi Usb 32wadmx. Usando 0.
+2025-03-28 17:34:00,657 - INFO - Información de vendidos no encontrada para: Auriculares In Ear Htc Tws12 Gamer Inalámbricos Bluetooth 5.3 Con Luz Led Audifonos Manos Libres Con Estuche Negro Earbuds Con Microfonos Inalambricos Compatible Con Huawei Xiaomi Sony Samsung iPhone. Usando 0.
+2025-03-28 17:34:00,657 - INFO - Información de vendidos no encontrada para: Barra Sonido 2.1 Con Subwoofer Bluetooth Usb Óptico Auxiliar. Usando 0.
+2025-03-28 17:34:00,664 - INFO - Información de vendidos no encontrada para: Qcy H3 Lite Anc Auriculares Bluetooth 5.3 Diadema Plegables Color Negro. Usando 0.
+2025-03-28 17:34:00,665 - INFO - Información de vendidos no encontrada para: Proyector 4k Fhd Android Autofocus 19000 Lumenes Evitación Automática De Obstáculos Professional 60 Hz Bluetooth Projector Dual Wifi 6 Sonido Hifi Con Soporte Ajustable 3rg Ram + 16gb Rom. Usando 0.
+2025-03-28 17:34:00,666 - INFO - Información de vendidos no encontrada para: Bocina Recargable Kaiser Con Bluetooth® Y Ksr-link Ksw-5003. Usando 0.
+2025-03-28 17:34:00,667 - INFO - Información de vendidos no encontrada para: Bocina Bluetooth Portátil Altavoz Waterproof Con Micrófono Lacasi Amc9 Color Negro. Usando 0.
+2025-03-28 17:34:00,668 - INFO - Información de vendidos no encontrada para: Parlante Aiwa Awss40bt Portátil Bluetooth Con Karaoke. Usando 0.
+2025-03-28 17:34:00,670 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla Weyon 43 Pulgadas Full Hd Android Tv Hdmi/usb 60hz 43wdsnmx. Usando 0.
+2025-03-28 17:34:03,890 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1648
+2025-03-28 17:34:05,038 - INFO - Encontrados 53 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1648
+2025-03-28 17:34:05,040 - INFO - ID de producto extraído: 37538370
+2025-03-28 17:34:06,754 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/notebook-2-en-1-intel-i7-9750h-16gb-ram-512gb-ssd-156in-color-gris/p/MLM37538370
+2025-03-28 17:34:06,754 - INFO - Información de vendidos no encontrada para: Notebook 2 En 1 Intel I7 9750h 16gb Ram 512gb Ssd 15.6in Color Gris. Usando 0.
+2025-03-28 17:34:06,754 - INFO - ID de producto extraído: 44499048
+2025-03-28 17:34:08,528 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/winmix-g7-kit-de-microfono-dinamico-de-tambor-de-7-piezas-metal-completo-microfono-de-patada-tomsnare-y-platillos-para-bateria-voz-otros-instrumentos-completos-con-clip-de-rosca/p/MLM44499048
+2025-03-28 17:34:08,530 - INFO - Información de vendidos no encontrada para: Winmix G7 Kit De Micrófono Dinámico De Tambor De 7 Piezas (metal Completo)  Micrófono De Patada, Tom/snare Y Platillos Para Batería, Voz, Otros Instrumentos Completos Con Clip De Rosca. Usando 0.
+2025-03-28 17:34:08,530 - INFO - ID de producto extraído: 44870436
+2025-03-28 17:34:10,334 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/tablet-android-14-aorzoo-101-hd-1264gb-ram-1tb-ampliable-wifi-6-octa-core-pad-bluetooth-50-camara-dual-5mp13mp-gris-tableta-con-funda-plegable-teclado-raton-lapiz-y-gms-certificacion-tablets/p/MLM44870436
+2025-03-28 17:34:10,348 - INFO - Información de vendidos no encontrada para: Tablet Android 14 Aorzoo 10.1'' Hd 12+64gb Ram 1tb Ampliable Wifi 6 Octa-core Pad Bluetooth 5.0 , Cámara Dual 5mp+13mp, Gris Tableta Con Funda Plegable Teclado Ratón Lápiz Y Gms Certificación Tablets. Usando 0.
+2025-03-28 17:34:10,356 - INFO - Información de vendidos no encontrada para: Silla Gamer Reclinable Giratoria Ergonómica Súper Cómoda. Usando 0.
+2025-03-28 17:34:10,357 - INFO - Información de vendidos no encontrada para: Bocina Jbl Go 4 Jblgo4 Portátil Con Bluetooth Waterproof Negra 127v. Usando 0.
+2025-03-28 17:34:10,359 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=TeLOGMZTvMlRCLLrxf%2Bl8Dm%2BumWhMsnaMishaxUsqyhzXvmRU%2Bwa5s1at8NcZR1sXdobpAfeHifpu%2FEoouH3X%2F3Ehi9Jz%2BI8zmUyAeq8vrOnwxp20FJjDgnqYmv8GU3%2FpiGy7%2BeVJVVEiS0tc89flLFrj4PMyshM6WefoCC%2F62OzCtLt28eNuYnve%2B7L%2Bkxi%2BQltktaoINCMBtveE9U9SPse7zUEZSjh0jx%2FxN9TLujnMoAEuQnOLsGX%2FS8nBjSspMWc4MckElunPJ6avm6rdLzeA88ydBWyybcsMh8y7EgPKwpYCmILkJOreZSSPlgzJ%2FoK0wvBzcvGUdw%2FeiGfjPueaYJ6THqCOlO%2FCWIDD54feOsXMepbku8Mpb9qQ1SdHOvkZsiqrSxW3SfcmQs%2FfxaGd1lixENma2wNrgTp8L4ByvNDyppF65XrPjT2%2FNRzIem9vZZukUjmzk%2BNKznd7%2FFHlxUmfm0%2BSZPfD8Y7oNF%2B1oHT6worr5SYK1DxxBk4tm3cd3NMTHQC5X4NuGNGcYAXVuW7an1ZBSEBH1YRWiQ%3D&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-2212239859-laptop-intel-i9-12900hk-ram-32gb-ssd-1t-mx550-win-11-16in-_JM%23searchVariation%3D0%26position%3D13%26search_layout%3Dgrid%26deal_print_id%3D154663e0-5b63-44a2-9197-da1bbe4dbc3e%26tracking_id%3Df3c9deea-ee45-46b4-be78-34e3efa0d27b&lm=-1227566596&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=154663e0-5b63-44a2-9197-da1bbe4dbc3e&position=13&tracking_id=f3c9deea-ee45-46b4-be78-34e3efa0d27b
+2025-03-28 17:34:10,359 - INFO - Información de vendidos no encontrada para: Laptop Intel I9 12900hk Ram 32gb Ssd 1t Mx550 Win 11 16in. Usando 0.
+2025-03-28 17:34:10,363 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=0tu9Ty0BLbYSMynIy71zik9gJOglnkDXa2rODmTIH42Fbzs1kx3N8ySrwB9yewTWK6Vg8C5grtXF4Nyrq7PLnrUTwCi%2FF10APXoYJ5s3lo0pDg5KmCY%2BayyyqY9yllMTgtlrTly4mHAlnaV%2BOqLxGi2dvKQ92ftzj9kPyYVF9n%2F8CzM62us9AmveFZCT3qhCdSyRp%2Fv9F%2B0fg4vpS0SCL9ndHIUMC9ufrNymjNwapiIB51%2BB5MbcuQoSCPSxdzhC1jx8BqF04KcC%2Fi8P7eB5S0jOFHhbdHVcPv2Hpes5xq5ywqiLRpoTGTCdS%2FKH3kMtoGIlQXyYlVM0OnBu5Ar%2Fvrl1WW%2FtavyO6cTBRIn2GbDVYmImDC5v63qzUpaCQcNpGPd37iGNJ7DVkE2BEtXLJpt%2BPvXtnLqXfsdc%2F9taoo5xsoA0Y%2BSqsvTKiQsBoqikDjy2IigtFWRy9v02hTKGH3txtJPhWQAhuT1d4WlwM20spBqIG%2FgmdlqQO1vliOw%2FGSDoqMaHz9FrBh8JP3pOn7iybZOe3Q%2BjnVw45Po%3D&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-2005653579-silla-gamer-playfever-omega-escritorio-ergonomica-reclinable-_JM%23searchVariation%3D0%26position%3D14%26search_layout%3Dgrid%26deal_print_id%3D154663e0-5b63-44a2-9197-da1bbe4dbc3e%26tracking_id%3Df3c9deea-ee45-46b4-be78-34e3efa0d27b&lm=-1054108737&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=154663e0-5b63-44a2-9197-da1bbe4dbc3e&position=14&tracking_id=f3c9deea-ee45-46b4-be78-34e3efa0d27b
+2025-03-28 17:34:10,364 - INFO - ID de producto extraído: 2296785194
+2025-03-28 17:34:12,426 - INFO - URL final obtenida: https://articulo.mercadolibre.com.mx/MLM-2296785194-protector-voltaje-ajustable-refrigerador-aire-acondicionado-_JM
+2025-03-28 17:34:12,437 - INFO - Información de vendidos no encontrada para: Protector Voltaje Ajustable, Refrigerador Aire Acondicionado. Usando 0.
+2025-03-28 17:34:12,437 - INFO - Información de vendidos no encontrada para: Qian Monitor Led 21.5 ,full Hd, 1920x1080p, 75hz, Hdmi, Vga, Vesa 75 X 75,para Pc/laptop/ Xbox Series S, Qm2151f. Usando 0.
+2025-03-28 17:34:12,437 - INFO - Información de vendidos no encontrada para: Impresora Multifunción Monocromática Brother Dcp Dcp-1617nw Con Wifi. Usando 0.
+2025-03-28 17:34:12,442 - INFO - Información de vendidos no encontrada para: Dell Latitude 3310 8va Touchscreen 256gb Laptop Apta Win 11. Usando 0.
+2025-03-28 17:34:12,445 - INFO - Información de vendidos no encontrada para: 30 Metros Cable Red Plano Categoria 6 Cat6 Rj45 Utp Ethernet Tienda De México. Usando 0.
+2025-03-28 17:34:12,446 - INFO - Información de vendidos no encontrada para: Laptop Hp 15-fd0999nr Core I5-1235u 16gb Ram 512gb Ssd 1920 X 1080 Full Hd 15.6 Windows 11. Usando 0.
+2025-03-28 17:34:12,447 - INFO - Información de vendidos no encontrada para: iPad 10 Generación A2696 10.9 Pulgadas 64gb Plata 4gb De Memoria Ram. Usando 0.
+2025-03-28 17:34:12,448 - INFO - Información de vendidos no encontrada para: Monitor Acteck Captive Vivid Sp270 Led 27  Full Hd 1080p Negro 127v 1080p 75 Hz Hdmi Vga 5ms. Usando 0.
+2025-03-28 17:34:12,449 - INFO - Información de vendidos no encontrada para: Micrófono Shure Sm Sm58-lc Dinámico Cardioide Gris Oscuro Color Gris Oscuro/plateado. Usando 0.
+2025-03-28 17:34:12,450 - INFO - Información de vendidos no encontrada para: Tablet Samsung Galaxy Tab A9 8 64gb Y 4gb Ram Color Navy Color Azul. Usando 0.
+2025-03-28 17:34:12,451 - INFO - Información de vendidos no encontrada para: Monitor Samsung Cf39 Series C27f391fh Lc27f391fhnxza 27   110v Color Blanco. Usando 0.
+2025-03-28 17:34:12,452 - INFO - Información de vendidos no encontrada para: Exceline Gsm-n Protector De Voltaje Para Refrigerador O Enfriador Doméstico. Usando 0.
+2025-03-28 17:34:12,453 - INFO - Información de vendidos no encontrada para: Tablet 10'' Hd 22gb+128gb Rom Android 14 5g-wifi Cámara Dual. Usando 0.
+2025-03-28 17:34:12,454 - INFO - Información de vendidos no encontrada para: Disco Sólido Ssd Interno Seagate Xbox Series Stjr1000400 1tb Negro. Usando 0.
+2025-03-28 17:34:12,455 - INFO - Información de vendidos no encontrada para: Laptop Moderness Lt1505 16+512g 15.6 1920*1080p Windows 11. Usando 0.
+2025-03-28 17:34:12,456 - INFO - Información de vendidos no encontrada para: Impresora Tickets Térmica Esc/pos Con Corte Automático 80mm. Usando 0.
+2025-03-28 17:34:12,458 - INFO - Información de vendidos no encontrada para: 2025 Tablet 10'' Android 14,22gb+128gb 8000mah 8-core Wifi 6. Usando 0.
+2025-03-28 17:34:12,460 - INFO - Información de vendidos no encontrada para: Laptop Asus E510ma-br1532w Intel Celeron-n4020 4gb Ram 128gb W11h Peacock Blue. Usando 0.
+2025-03-28 17:34:15,795 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?filter=discount_over_30
+2025-03-28 17:34:17,542 - INFO - Encontrados 46 productos en https://www.mercadolibre.com.mx/ofertas?filter=discount_over_30
+2025-03-28 17:34:17,542 - INFO - Información de vendidos no encontrada para: Ventilador De Torre Shawty® 40 Pulgadas 100cm Con Control Remoto, 5 Velocidades Temporizador 12h, Silencioso Y Portátil, Ideal Dormitorio, Oficina, Cocina. Usando 0.
+2025-03-28 17:34:17,546 - INFO - Información de vendidos no encontrada para: Mesa Plegable Portátil De Plástico 180 Cm Tipo Portafolio,. Usando 0.
+2025-03-28 17:34:17,547 - INFO - Información de vendidos no encontrada para: Protector Solar Facial Sin Color Neutrogena Sun Fresh Derm Care Niacinamida Fps50+ 40 G. Usando 0.
+2025-03-28 17:34:17,547 - INFO - Información de vendidos no encontrada para: Maquina Trituradora De Hielo Para Raspados Electrica Color Gris. Usando 0.
+2025-03-28 17:34:17,549 - INFO - Información de vendidos no encontrada para: U Bárbara Pijama Quirúrgica Corte Recto Con Bolsas Uniforme. Usando 0.
+2025-03-28 17:34:17,550 - INFO - Información de vendidos no encontrada para: Gel Cerave Limpiador Espumoso Piel Normal A Grasa Sin Perfume De 473 Ml Día Y Noche. Usando 0.
+2025-03-28 17:34:17,552 - INFO - Información de vendidos no encontrada para: Enfriador De Aire Acondicionado Portátil Ventilador Frio 6l. Usando 0.
+2025-03-28 17:34:17,553 - INFO - Información de vendidos no encontrada para: Espejo Led Baño 50x70cm Touch 3 Modo Con Función Antivaho. Usando 0.
+2025-03-28 17:34:17,555 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Weyon Hd Led Android Tv 32wdsnmx. Usando 0.
+2025-03-28 17:34:17,555 - INFO - Información de vendidos no encontrada para: Pocophone Poco M5s Dual Sim 256 Gb Gris 8 Gb Ram. Usando 0.
+2025-03-28 17:34:17,555 - INFO - Información de vendidos no encontrada para: Tenis Para Hombre Nike Court Royale. Usando 0.
+2025-03-28 17:34:17,559 - INFO - Información de vendidos no encontrada para: Televisión Redv 32 Pulgadas Smart Tv Android 14 Hd. Usando 0.
+2025-03-28 17:34:17,561 - INFO - Información de vendidos no encontrada para: Guantes De Nitrilo Vinil Libre De Latex Sin Polvo Azul Negro. Usando 0.
+2025-03-28 17:34:17,562 - INFO - Información de vendidos no encontrada para: Infinix Note 40 Pro Dual Sim 256 Gb Dorado 8 Gb Ram. Usando 0.
+2025-03-28 17:34:17,564 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot43fle11 43  Full Hd Led. Usando 0.
+2025-03-28 17:34:17,565 - INFO - Información de vendidos no encontrada para: Playstation 5 Slim Standard 1tb Bundle Con 2 Juegos Físicos. Usando 0.
+2025-03-28 17:34:17,567 - INFO - Información de vendidos no encontrada para: Xiaomi Poco M5s 8gb 256gb 6.43 Amoled 64mp 5000mah 33w Azul. Usando 0.
+2025-03-28 17:34:17,567 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 55 Pulgadas Cuory Google Tv 4k Uhd Dled. Usando 0.
+2025-03-28 17:34:17,567 - INFO - Información de vendidos no encontrada para: Tenis De Skateboarding Nike Sb Alleyoop. Usando 0.
+2025-03-28 17:34:17,567 - INFO - Información de vendidos no encontrada para: Llave De Impacto Inalámbrica Pistola Taladro Eléctrica 2pila. Usando 0.
+2025-03-28 17:34:17,567 - INFO - Información de vendidos no encontrada para: Aspiradora De Mano Portátil Inalambrica Para Auto Y Hogar. Usando 0.
+2025-03-28 17:34:17,572 - INFO - Información de vendidos no encontrada para: Colchón Inflable Queen Size + Bomba Inflable Cama Resistente. Usando 0.
+2025-03-28 17:34:17,572 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Cuory Android Tv Dled Hd Bluetooth Dolby Audio. Usando 0.
+2025-03-28 17:34:17,573 - INFO - Información de vendidos no encontrada para: Limpiador Cerave Control Imperfecciones Para Piel Con Tendencia Acnéica De Todas Las Edades De Dia Y Noche 236ml. Usando 0.
+2025-03-28 17:34:17,575 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot32hle11 32  Hd Dled. Usando 0.
+2025-03-28 17:34:17,576 - INFO - Información de vendidos no encontrada para: Eucerin Control Toque Seco Protector Solar Fps50+ 50ml. Usando 0.
+2025-03-28 17:34:17,578 - INFO - Información de vendidos no encontrada para: Guante Vinil Synmax Nitrilo Libre De Latex. Usando 0.
+2025-03-28 17:34:17,579 - INFO - Información de vendidos no encontrada para: Tenis Para Hombre Nike Full Force Low Gris Fb1362-005. Usando 0.
+2025-03-28 17:34:17,581 - INFO - Información de vendidos no encontrada para: Beyond Vitamins | Magnesio Complex | Con 4 Magnesios: Citrato De Magnesio, Glicinato De Magnesio, Gluconato De Magnesio Y Óxido De Magnesio | Magnesium Suplemento Alimenticio - 180 Cápsulas. Usando 0.
+2025-03-28 17:34:17,582 - INFO - Información de vendidos no encontrada para: Toallitas Húmedas Huggies Supreme 12 Paquetes Con 80 Toallitas C/uno. Usando 0.
+2025-03-28 17:34:21,571 - INFO - Análisis completado: 195 productos analizados, 113 ofertas válidas encontradas
+2025-03-28 17:34:21,571 - INFO - Mejor oferta seleccionada: 2025 Tablet 10'' Android 14,22gb+128gb 8000mah 8-core Wifi 6 - Descuento: 70% - Score: 105.0
+2025-03-28 17:34:21,576 - INFO - Scraper programado para ejecutarse cada 8 horas (00:00, 08:00, 16:00)
+2025-03-28 17:36:30,396 - INFO - Scraper detenido manualmente
+2025-03-28 17:36:31,560 - INFO - Iniciando el scraper de Mercado Libre
+2025-03-28 17:36:31,560 - INFO - Iniciando ejecución programada del scraper
+2025-03-28 17:36:31,560 - INFO - Iniciando scraping de Mercado Libre...
+2025-03-28 17:36:31,560 - INFO - Historial de ofertas cargado: 0 ofertas publicadas anteriormente
+2025-03-28 17:36:31,560 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1144
+2025-03-28 17:36:32,724 - INFO - Encontrados 48 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1144
+2025-03-28 17:36:32,724 - INFO - Información de vendidos no encontrada para: Playstation 5 Slim Standard 1tb Bundle Con 2 Juegos Físicos. Usando 0.
+2025-03-28 17:36:32,724 - INFO - Información de vendidos no encontrada para: Silla Gamer Reclinable Giratoria Ergonómica Súper Cómoda. Usando 0.
+2025-03-28 17:36:32,724 - INFO - Información de vendidos no encontrada para: Control Joystick Inalámbrico Microsoft Xbox Elite Wireless Controller Series 2 Negro. Usando 0.
+2025-03-28 17:36:32,731 - INFO - Información de vendidos no encontrada para: Mario Kart 8 Deluxe. Usando 0.
+2025-03-28 17:36:32,733 - INFO - Información de vendidos no encontrada para: Micrófono Shure Sm Sm58-lc Dinámico Cardioide Gris Oscuro Color Gris Oscuro/plateado. Usando 0.
+2025-03-28 17:36:32,734 - INFO - Información de vendidos no encontrada para: Consola Playstation Ps5 Digital Fortnite Cobalt Star 1tb Ssd Color Blanco. Usando 0.
+2025-03-28 17:36:32,735 - INFO - Información de vendidos no encontrada para: Powera Control Alámbrico Para Xbox Series X|s - Red Camo Color Rojo. Usando 0.
+2025-03-28 17:36:32,737 - INFO - Información de vendidos no encontrada para: Super Smash Bros. Ultimate. Usando 0.
+2025-03-28 17:36:32,739 - INFO - Información de vendidos no encontrada para: Ea Sports Fc 25 Nintendo Switch Físico. Usando 0.
+2025-03-28 17:36:32,741 - INFO - Información de vendidos no encontrada para: Silla Ergonómica Oficina Ouo T20 Base De Acero Reposapiés Color Negro Material Del Tapizado Malla. Usando 0.
+2025-03-28 17:36:32,742 - INFO - Información de vendidos no encontrada para: Easysmx X05 Control Bluetooth Inalambrico Gamepad Para Nintendo Switch Pc Android iPhone Móvil,hall Joystick Y Hall Trigger,mando Con 5 Niveles De Vibración Ajustable, Función Turbo. Usando 0.
+2025-03-28 17:36:32,743 - INFO - Información de vendidos no encontrada para: Control Inalámbrico Gamepad Y Joystick Wireless Controller Rooftop Rt-cw01 Pro Negro Con Bluetooth  Y Batería Incorporada De 1000 Mah Para Nintendo Switch. Usando 0.
+2025-03-28 17:36:32,744 - INFO - Información de vendidos no encontrada para: Silla De Escritorio Balam Rush Thunder Rush V2 Gamer Ergonómica Negra Y Roja. Usando 0.
+2025-03-28 17:36:32,746 - INFO - Información de vendidos no encontrada para: Auricular Gamer Inalámbrico Huo Ji X7 Blanco Con Luz Rgb Led. Usando 0.
+2025-03-28 17:36:32,747 - INFO - Información de vendidos no encontrada para: Maono Micrófono Usb Condensador, Microfono Pc Con Chipset De Sonido Profesional 192khz/24bit Para Grabación, Podcast, Streaming, Gamer, Compatible Con Pc Celular Ps5 Mac, Pm461tr. Usando 0.
+2025-03-28 17:36:32,748 - INFO - Información de vendidos no encontrada para: Silla Gamer Yeyiancadira Series 1150, Ergonómica Para Juegos Con Reposabrazos 2d Regulables, Hasta 150kg, Inclinación De Hasta 165°, Soporte Lumbar, Negro/azul. Usando 0.
+2025-03-28 17:36:32,749 - INFO - Información de vendidos no encontrada para: Winmix G7 Kit De Micrófono Dinámico De Tambor De 7 Piezas (metal Completo)  Micrófono De Patada, Tom/snare Y Platillos Para Batería, Voz, Otros Instrumentos Completos Con Clip De Rosca. Usando 0.
+2025-03-28 17:36:32,750 - INFO - Información de vendidos no encontrada para: Micrófono Augerdz Me4-rgb Micrófono Condensador Micrófono De Condensador Color Negro. Usando 0.
+2025-03-28 17:36:32,751 - INFO - Información de vendidos no encontrada para: Silla Gamer Balam Rush Power Rush V2 Ergonomica Reclinable 135° 120kg Gris Piel Sintetica. Usando 0.
+2025-03-28 17:36:32,752 - INFO - Información de vendidos no encontrada para: Control Para Switch Pro, Mando Bluetooth Controlador Gamepad. Usando 0.
+2025-03-28 17:36:32,754 - INFO - Información de vendidos no encontrada para: Powera Enhanced Wired Controller Mario Red White Switch Color Blanco. Usando 0.
+2025-03-28 17:36:32,755 - INFO - Información de vendidos no encontrada para: Funda Para Nintendo Switch Y Modelo Oled Protector Retro Nes, Estuche Rígido Portátil Con 10 Compartimentos Para Cartuchos Y Espacio Para Cables, Audífonos Y Controles, Resistente A Golpes. Usando 0.
+2025-03-28 17:36:32,756 - INFO - Información de vendidos no encontrada para: Estuche De Viaje Ps5 Portal Alta Proteccion Ps5 Accesorios. Usando 0.
+2025-03-28 17:36:32,757 - INFO - Información de vendidos no encontrada para: Nintendo Switch Oled 64gb Color Blanco Y Juego Mario Kart 8. Usando 0.
+2025-03-28 17:36:32,758 - INFO - Información de vendidos no encontrada para: Aiyin Smart Kit De Accesorios Funda Para Nintendo Switch Oled 30 En 1 Negro, 1*funda De Viaje, 2*protector De Pantalla Vidrio, 1*carcasa Transparente, 1*porta Tarjetas De. Usando 0.
+2025-03-28 17:36:32,759 - INFO - Información de vendidos no encontrada para: Práctica Funda Transparente Compatible Con Ps5 Portal Psp. Usando 0.
+2025-03-28 17:36:32,760 - INFO - Información de vendidos no encontrada para: Nintendo Oled Blanco 64gb Y Juegos Mario Party Y Mario Kart. Usando 0.
+2025-03-28 17:36:32,761 - INFO - Información de vendidos no encontrada para: Nintendo Oled Blanco+mario Kart8, Smash Bros, Mario Party. Usando 0.
+2025-03-28 17:36:37,159 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1000
+2025-03-28 17:36:38,296 - INFO - Encontrados 48 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1000
+2025-03-28 17:36:38,296 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Weyon Hd Led Android Tv 32wdsnmx. Usando 0.
+2025-03-28 17:36:38,296 - INFO - Información de vendidos no encontrada para: Televisión Redv 32 Pulgadas Smart Tv Android 14 Hd. Usando 0.
+2025-03-28 17:36:38,311 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot43fle11 43  Full Hd Led. Usando 0.
+2025-03-28 17:36:38,311 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 55 Pulgadas Cuory Google Tv 4k Uhd Dled. Usando 0.
+2025-03-28 17:36:38,311 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Cuory Android Tv Dled Hd Bluetooth Dolby Audio. Usando 0.
+2025-03-28 17:36:38,311 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot32hle11 32  Hd Dled. Usando 0.
+2025-03-28 17:36:38,316 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 43 Pulgadas Cuory Android Tv Cuo-hdtv43 43'' Full Hd Led. Usando 0.
+2025-03-28 17:36:38,317 - INFO - Información de vendidos no encontrada para: Bocina Portátil Aiwa Aws600bt Cilíndrica Negro, 600w, Bluetooth, Usb, Resistente Al Agua, Con Luces Led. Usando 0.
+2025-03-28 17:36:38,318 - INFO - Información de vendidos no encontrada para: Proyector Profesional 4k Android 8000lm Led 1080p Hy300 Pro. Usando 0.
+2025-03-28 17:36:38,319 - INFO - Información de vendidos no encontrada para: Smart Tv LG 50ur7800psb 50'' 4k Led. Usando 0.
+2025-03-28 17:36:38,320 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Signa Android Tv Led Hd. Usando 0.
+2025-03-28 17:36:38,320 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv Hikers 32 Pulgadas Led Hd Con Dolby/aac. Usando 0.
+2025-03-28 17:36:38,322 - INFO - Información de vendidos no encontrada para: Haylou S30 Pro Anc Audífonos Diadema Gamer Inalámbricos/con Micrófono, Bluetooth 5.4, Llamadas Manos Libres, Cancelación De Ruido Adaptativa De - 43db, Controlador 40mm, 80h Reproducción, Azul Oscuro. Usando 0.
+2025-03-28 17:36:38,323 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 43 Pulgadas Signa Android Tv Led Hd. Usando 0.
+2025-03-28 17:36:38,324 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv Hisense 32 32a4hnr Roku Hd Dolby Audio. Usando 0.
+2025-03-28 17:36:38,325 - INFO - Información de vendidos no encontrada para: Pantalla LG Uhd Ai Thinq 70 4k Smart Tv 70ur8750psa. Usando 0.
+2025-03-28 17:36:38,326 - INFO - Información de vendidos no encontrada para: Home Theater 100w Barra De Sonido Y Subwoofer Con Bluetooth. Usando 0.
+2025-03-28 17:36:38,327 - INFO - Información de vendidos no encontrada para: Pantalla Television Redv 32 Pulgadas Led Hd 720 Usb Hdmi Sin Marco. Usando 0.
+2025-03-28 17:36:38,328 - INFO - Información de vendidos no encontrada para: Onn 65 Pulgadas Pantalla 4k Uhd (2160p) Led Roku Smart Tv. Usando 0.
+2025-03-28 17:36:38,329 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Android Tv Jokben Televisores Jokben32-bt1 Negro. Usando 0.
+2025-03-28 17:36:38,331 - INFO - Información de vendidos no encontrada para: Pantalla LG Ai Smart Tv Lr65 32 Pulgadas 2024 Thinq Ai. Usando 0.
+2025-03-28 17:36:38,332 - INFO - Información de vendidos no encontrada para: Proyector Portatil Profesional 4k Android Wifi 6 Hd 1080p 10000lm Isinbox P30 Pro. Usando 0.
+2025-03-28 17:36:38,332 - INFO - Información de vendidos no encontrada para: Pantalla Smart Tv 50 Pulgadas Weyon Android 4k Television. Usando 0.
+2025-03-28 17:36:38,332 - INFO - Información de vendidos no encontrada para: Audífonos Inalámbricos Skullcandy Over-ear Crusher Evo Negro. Usando 0.
+2025-03-28 17:36:38,332 - INFO - Información de vendidos no encontrada para: Pantalla 32 Pulgadas Weyon Led Hd Hdmi Usb 32wadmx. Usando 0.
+2025-03-28 17:36:38,332 - INFO - Información de vendidos no encontrada para: Auriculares In Ear Htc Tws12 Gamer Inalámbricos Bluetooth 5.3 Con Luz Led Audifonos Manos Libres Con Estuche Negro Earbuds Con Microfonos Inalambricos Compatible Con Huawei Xiaomi Sony Samsung iPhone. Usando 0.
+2025-03-28 17:36:38,332 - INFO - Información de vendidos no encontrada para: Barra Sonido 2.1 Con Subwoofer Bluetooth Usb Óptico Auxiliar. Usando 0.
+2025-03-28 17:36:38,338 - INFO - Información de vendidos no encontrada para: Qcy H3 Lite Anc Auriculares Bluetooth 5.3 Diadema Plegables Color Negro. Usando 0.
+2025-03-28 17:36:38,339 - INFO - Información de vendidos no encontrada para: Proyector 4k Fhd Android Autofocus 19000 Lumenes Evitación Automática De Obstáculos Professional 60 Hz Bluetooth Projector Dual Wifi 6 Sonido Hifi Con Soporte Ajustable 3rg Ram + 16gb Rom. Usando 0.
+2025-03-28 17:36:38,340 - INFO - Información de vendidos no encontrada para: Bocina Recargable Kaiser Con Bluetooth® Y Ksr-link Ksw-5003. Usando 0.
+2025-03-28 17:36:38,342 - INFO - Información de vendidos no encontrada para: Bocina Bluetooth Portátil Altavoz Waterproof Con Micrófono Lacasi Amc9 Color Negro. Usando 0.
+2025-03-28 17:36:38,343 - INFO - Información de vendidos no encontrada para: Parlante Aiwa Awss40bt Portátil Bluetooth Con Karaoke. Usando 0.
+2025-03-28 17:36:42,213 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?category=MLM1648
+2025-03-28 17:36:43,387 - INFO - Encontrados 53 productos en https://www.mercadolibre.com.mx/ofertas?category=MLM1648
+2025-03-28 17:36:43,387 - INFO - ID de producto extraído: 37538370
+2025-03-28 17:36:45,179 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/notebook-2-en-1-intel-i7-9750h-16gb-ram-512gb-ssd-156in-color-gris/p/MLM37538370
+2025-03-28 17:36:45,195 - INFO - Información de vendidos no encontrada para: Notebook 2 En 1 Intel I7 9750h 16gb Ram 512gb Ssd 15.6in Color Gris. Usando 0.
+2025-03-28 17:36:45,195 - INFO - ID de producto extraído: 44870436
+2025-03-28 17:36:46,972 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/tablet-android-14-aorzoo-101-hd-1264gb-ram-1tb-ampliable-wifi-6-octa-core-pad-bluetooth-50-camara-dual-5mp13mp-gris-tableta-con-funda-plegable-teclado-raton-lapiz-y-gms-certificacion-tablets/p/MLM44870436
+2025-03-28 17:36:46,972 - INFO - Información de vendidos no encontrada para: Tablet Android 14 Aorzoo 10.1'' Hd 12+64gb Ram 1tb Ampliable Wifi 6 Octa-core Pad Bluetooth 5.0 , Cámara Dual 5mp+13mp, Gris Tableta Con Funda Plegable Teclado Ratón Lápiz Y Gms Certificación Tablets. Usando 0.
+2025-03-28 17:36:46,972 - INFO - ID de producto extraído: 44499048
+2025-03-28 17:36:48,640 - INFO - URL final obtenida: https://www.mercadolibre.com.mx/winmix-g7-kit-de-microfono-dinamico-de-tambor-de-7-piezas-metal-completo-microfono-de-patada-tomsnare-y-platillos-para-bateria-voz-otros-instrumentos-completos-con-clip-de-rosca/p/MLM44499048
+2025-03-28 17:36:48,640 - INFO - Información de vendidos no encontrada para: Winmix G7 Kit De Micrófono Dinámico De Tambor De 7 Piezas (metal Completo)  Micrófono De Patada, Tom/snare Y Platillos Para Batería, Voz, Otros Instrumentos Completos Con Clip De Rosca. Usando 0.
+2025-03-28 17:36:48,640 - INFO - Información de vendidos no encontrada para: Silla Gamer Reclinable Giratoria Ergonómica Súper Cómoda. Usando 0.
+2025-03-28 17:36:48,655 - INFO - Información de vendidos no encontrada para: Bocina Jbl Go 4 Jblgo4 Portátil Con Bluetooth Waterproof Negra 127v. Usando 0.
+2025-03-28 17:36:48,656 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=wX3qclkSmx0s9unjX2zn%2BJjyl6B1Mnw9uDU%2FIqeXUon1BT93UJer0DoJmTh7H%2BR47txGEjaufNZ6eGwTYqVi7q09dzuncNGLB6l90oTx6MLcyMLoayb6yUIqvA5Em6ioKDLxlIF20houMNEQD5rRPdjsGaAQZ9hZKybzr2cO5e9IRJAF1G2YHaS8tWfIEfBgGSZyNtRiIBJZdbTTb%2FcfP6QgDrj0pikjSQwgNqjS4Z8NfSTkC8fOnfyltdUi%2Biam3lhzoo3iPa%2FkZWDmTHiWGeVv3DrkwI8B34t%2BgDU%2B%2FgAODbHa2TslUqeUONXdk3O2R8bD1gHlv50hWFfIINR2gVlgrq%2F3KXKnOEjqUjqA5UlumtFhRhZGkS8lpoOLXsBAPWGnoBy1AdXZhxrt%2FUTsSj5FAuCivLCDjsQobV%2BaRUYya5bCnV0P0ynTWEV0yxgqAnnKci9IeeUtx%2BNhOh08UfRkckAZbKt75hlVcf0pr0NBGg7cz1hoxUlXflvJWE8M6LfGmKKyDv0PWlCZalsOZBNDn54ayxtuWxVjqOE%3D&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-2005653579-silla-gamer-playfever-omega-escritorio-ergonomica-reclinable-_JM%23searchVariation%3D0%26position%3D13%26search_layout%3Dgrid%26deal_print_id%3D6711fe8f-9c40-47c2-9f31-5bcfaf300a84%26tracking_id%3D825e5f99-c449-4479-8d43-0ac91651b1f5&lm=1731116095&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=6711fe8f-9c40-47c2-9f31-5bcfaf300a84&position=13&tracking_id=825e5f99-c449-4479-8d43-0ac91651b1f5
+2025-03-28 17:36:48,658 - INFO - ID de producto extraído: 2296785194
+2025-03-28 17:36:50,433 - INFO - URL final obtenida: https://articulo.mercadolibre.com.mx/MLM-2296785194-protector-voltaje-ajustable-refrigerador-aire-acondicionado-_JM
+2025-03-28 17:36:50,449 - INFO - Información de vendidos no encontrada para: Protector Voltaje Ajustable, Refrigerador Aire Acondicionado. Usando 0.
+2025-03-28 17:36:50,449 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=OL5si3rENfux9m7YvQf2%2FhfwOJUYkcAYWi94yD7cmFsI5qZ9m3FoZGWR6gLXv0r5df1DpvVaOgN7xfzXre%2BZZic4ksNUDEBTmXNpAesc1ADtlU3D7q1le6uUIuvxuTrNjfMuR5hiovSkUVyysgdrnyNNm5iYUnU7%2FpuwkooSzOYeZhHzKDqu9FtD%2F5Ntl5r1vuhP13JpTOqEywvEjBPZf0YDEwKwy8lF4izuHwpad7JcgRTKJqSe5MAaDsgA%2FbD8n%2BhDrNErSBEw4b70%2FoxKC8EdDF%2FRX%2FlmL%2BgnVdt4DnovIrp3c6VJLbGqZnPyk0xOoKaJP05Ayu%2Fo9hwHMmK53yegBo9QZRns5IFD8NY7IuNhumGcnQLNuraJj%2BDWyI2yZ4BhQsPYIyQY0m5zFdqrBPruDk2iDHzsixhLNZV8mryXLZTk%2F48ISgUH45RHgoRAcCIBggSS61UOIZstzzj8GFLSsa%2BbzMiwiAQPhF5y8yQmO1DGsz5I7G7vsCntlo0WiRH0mASgm4ZK17%2B0jj960MWtFntAX2UJ8LQ0inJubg%3D%3D&url=https%3A%2F%2Farticulo.mercadolibre.com.mx%2FMLM-3518285934-android-14-tablet-101-22128gb-5g-8000mah-con-teclado-raton-_JM%23searchVariation%3D0%26position%3D15%26search_layout%3Dgrid%26deal_print_id%3D6711fe8f-9c40-47c2-9f31-5bcfaf300a84%26tracking_id%3D825e5f99-c449-4479-8d43-0ac91651b1f5&lm=-1592219700&e=mclics%2Fmax-bid-capped%2B36382%2Cmclics%2Fmore-ads-migration-offers%2B80262%2Cmclics%2Fdynamic-yield-factor%2B73919%2Cmclics%2Fmax-bid-item-factor%2B23927%2Cmclics%2Foverride-min-seasonality%2B49092%2Cmclics%2Fmin-budget-throttling%2B54896%2Cmclics%2Fgmv-predictor%2B52393%2Cmclics%2Fmore-ads-migration%2B56865%2Cmclics%2Fdiscard-bid-lt-min%2B45363#polycard_client=offers&deal_print_id=6711fe8f-9c40-47c2-9f31-5bcfaf300a84&position=15&tracking_id=825e5f99-c449-4479-8d43-0ac91651b1f5
+2025-03-28 17:36:50,455 - INFO - Información de vendidos no encontrada para: Android 14 Tablet 10.1 22+128gb 5g 8000mah Con Teclado Ratón. Usando 0.
+2025-03-28 17:36:50,456 - INFO - Información de vendidos no encontrada para: Qian Monitor Led 21.5 ,full Hd, 1920x1080p, 75hz, Hdmi, Vga, Vesa 75 X 75,para Pc/laptop/ Xbox Series S, Qm2151f. Usando 0.
+2025-03-28 17:36:50,458 - INFO - Información de vendidos no encontrada para: Impresora Multifunción Monocromática Brother Dcp Dcp-1617nw Con Wifi. Usando 0.
+2025-03-28 17:36:50,460 - INFO - Información de vendidos no encontrada para: Dell Latitude 3310 8va Touchscreen 256gb Laptop Apta Win 11. Usando 0.
+2025-03-28 17:36:50,461 - INFO - Información de vendidos no encontrada para: 30 Metros Cable Red Plano Categoria 6 Cat6 Rj45 Utp Ethernet Tienda De México. Usando 0.
+2025-03-28 17:36:50,462 - INFO - Información de vendidos no encontrada para: Laptop Hp 15-fd0999nr Core I5-1235u 16gb Ram 512gb Ssd 1920 X 1080 Full Hd 15.6 Windows 11. Usando 0.
+2025-03-28 17:36:50,464 - INFO - Información de vendidos no encontrada para: Monitor Acteck Captive Vivid Sp270 Led 27  Full Hd 1080p Negro 127v 1080p 75 Hz Hdmi Vga 5ms. Usando 0.
+2025-03-28 17:36:50,465 - INFO - Información de vendidos no encontrada para: iPad 10 Generación A2696 10.9 Pulgadas 64gb Plata 4gb De Memoria Ram. Usando 0.
+2025-03-28 17:36:50,466 - INFO - Información de vendidos no encontrada para: Tablet Samsung Galaxy Tab A9 8 64gb Y 4gb Ram Color Navy Color Azul. Usando 0.
+2025-03-28 17:36:50,467 - INFO - Información de vendidos no encontrada para: Micrófono Shure Sm Sm58-lc Dinámico Cardioide Gris Oscuro Color Gris Oscuro/plateado. Usando 0.
+2025-03-28 17:36:50,468 - INFO - Información de vendidos no encontrada para: Monitor Samsung Cf39 Series C27f391fh Lc27f391fhnxza 27   110v Color Blanco. Usando 0.
+2025-03-28 17:36:50,470 - INFO - Información de vendidos no encontrada para: Tablet 10.1 Android 14 20+128gb 5g Wifi6 Bt5 Gms Con Teclado. Usando 0.
+2025-03-28 17:36:50,471 - INFO - Información de vendidos no encontrada para: Disco Sólido Ssd Interno Seagate Xbox Series Stjr1000400 1tb Negro. Usando 0.
+2025-03-28 17:36:50,472 - INFO - Información de vendidos no encontrada para: Laptop Moderness Lt1505 16+512g 15.6 1920*1080p Windows 11. Usando 0.
+2025-03-28 17:36:50,473 - INFO - Información de vendidos no encontrada para: Exceline Gsm-n Protector De Voltaje Para Refrigerador O Enfriador Doméstico. Usando 0.
+2025-03-28 17:36:50,474 - INFO - Información de vendidos no encontrada para: 2025 Tablet 10'' Android 14,22gb+128gb 8000mah 8-core Wifi 6. Usando 0.
+2025-03-28 17:36:50,474 - INFO - Información de vendidos no encontrada para: Tablet 10'' Hd 22gb+128gb Rom Android 14 5g-wifi Cámara Dual. Usando 0.
+2025-03-28 17:36:54,477 - INFO - Scrapeando URL: https://www.mercadolibre.com.mx/ofertas?filter=discount_over_30
+2025-03-28 17:36:56,090 - INFO - Encontrados 48 productos en https://www.mercadolibre.com.mx/ofertas?filter=discount_over_30
+2025-03-28 17:36:56,090 - INFO - Información de vendidos no encontrada para: Ventilador De Torre Shawty® 40 Pulgadas 100cm Con Control Remoto, 5 Velocidades Temporizador 12h, Silencioso Y Portátil, Ideal Dormitorio, Oficina, Cocina. Usando 0.
+2025-03-28 17:36:56,090 - INFO - Información de vendidos no encontrada para: Mesa Plegable Portátil De Plástico 180 Cm Tipo Portafolio,. Usando 0.
+2025-03-28 17:36:56,090 - INFO - Información de vendidos no encontrada para: Protector Solar Facial Sin Color Neutrogena Sun Fresh Derm Care Niacinamida Fps50+ 40 G. Usando 0.
+2025-03-28 17:36:56,090 - INFO - Información de vendidos no encontrada para: Maquina Trituradora De Hielo Para Raspados Electrica Color Gris. Usando 0.
+2025-03-28 17:36:56,090 - INFO - Información de vendidos no encontrada para: U Bárbara Pijama Quirúrgica Corte Recto Con Bolsas Uniforme. Usando 0.
+2025-03-28 17:36:56,105 - INFO - Información de vendidos no encontrada para: Gel Cerave Limpiador Espumoso Piel Normal A Grasa Sin Perfume De 473 Ml Día Y Noche. Usando 0.
+2025-03-28 17:36:56,106 - INFO - Información de vendidos no encontrada para: Enfriador De Aire Acondicionado Portátil Ventilador Frio 6l. Usando 0.
+2025-03-28 17:36:56,107 - INFO - Información de vendidos no encontrada para: Espejo Led Baño 50x70cm Touch 3 Modo Con Función Antivaho. Usando 0.
+2025-03-28 17:36:56,108 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Weyon Hd Led Android Tv 32wdsnmx. Usando 0.
+2025-03-28 17:36:56,109 - INFO - Información de vendidos no encontrada para: Pocophone Poco M5s Dual Sim 256 Gb Gris 8 Gb Ram. Usando 0.
+2025-03-28 17:36:56,111 - INFO - Información de vendidos no encontrada para: Tenis Para Hombre Nike Court Royale. Usando 0.
+2025-03-28 17:36:56,112 - INFO - Información de vendidos no encontrada para: Guantes De Nitrilo Vinil Libre De Latex Sin Polvo Azul Negro. Usando 0.
+2025-03-28 17:36:56,113 - INFO - Información de vendidos no encontrada para: Televisión Redv 32 Pulgadas Smart Tv Android 14 Hd. Usando 0.
+2025-03-28 17:36:56,115 - INFO - Información de vendidos no encontrada para: Xiaomi Poco M5s 8gb 256gb 6.43 Amoled 64mp 5000mah 33w Azul. Usando 0.
+2025-03-28 17:36:56,117 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot43fle11 43  Full Hd Led. Usando 0.
+2025-03-28 17:36:56,118 - INFO - Información de vendidos no encontrada para: Infinix Note 40 Pro Dual Sim 256 Gb Dorado 8 Gb Ram. Usando 0.
+2025-03-28 17:36:56,119 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 55 Pulgadas Cuory Google Tv 4k Uhd Dled. Usando 0.
+2025-03-28 17:36:56,120 - INFO - Información de vendidos no encontrada para: Llave De Impacto Inalámbrica Pistola Taladro Eléctrica 2pila. Usando 0.
+2025-03-28 17:36:56,121 - INFO - Información de vendidos no encontrada para: Smart Tv Pantalla 32 Pulgadas Cuory Android Tv Dled Hd Bluetooth Dolby Audio. Usando 0.
+2025-03-28 17:36:56,122 - INFO - Información de vendidos no encontrada para: Playstation 5 Slim Standard 1tb Bundle Con 2 Juegos Físicos. Usando 0.
+2025-03-28 17:36:56,123 - INFO - Información de vendidos no encontrada para: Eucerin Control Toque Seco Protector Solar Fps50+ 50ml. Usando 0.
+2025-03-28 17:36:56,123 - INFO - Información de vendidos no encontrada para: Toallitas Húmedas Huggies Supreme 12 Paquetes Con 80 Toallitas C/uno. Usando 0.
+2025-03-28 17:36:56,125 - INFO - Información de vendidos no encontrada para: Smart Tv Motorola Mot32hle11 32  Hd Dled. Usando 0.
+2025-03-28 17:36:56,127 - INFO - Información de vendidos no encontrada para: Zapatos Apilables Tatee Xg02 Estantes Plasticos Transparentes 10 Piezas Blanco De Abs. Usando 0.
+2025-03-28 17:36:56,128 - INFO - Información de vendidos no encontrada para: Tenis Para Mujer Puma Karmen Ii L Básicos Y Cómodos. Usando 0.
+2025-03-28 17:36:56,129 - INFO - Información de vendidos no encontrada para: Celular Xiaomi Poco C75 256gb Rom 8gb Ram Black. Usando 0.
+2025-03-28 17:36:56,130 - INFO - Información de vendidos no encontrada para: Protector Solar Facial Nivea Sun Control Brillo Fps50 50ml. Usando 0.
+2025-03-28 17:36:56,131 - INFO - Información de vendidos no encontrada para: Scooter Eléctrico Patin P1 25km/h 500w Adultos Pop Shope. Usando 0.
+2025-03-28 17:36:56,132 - INFO - Información de vendidos no encontrada para: Colchón Inflable Queen Size + Bomba Inflable Cama Resistente. Usando 0.
+2025-03-28 17:36:56,132 - INFO - Información de vendidos no encontrada para: Aspiradora De Mano Portátil Inalambrica Para Auto Y Hogar. Usando 0.
+2025-03-28 17:36:56,133 - INFO - Información de vendidos no encontrada para: Tenis De Skateboarding Nike Sb Alleyoop. Usando 0.
+2025-03-28 17:36:59,469 - INFO - Análisis completado: 197 productos analizados, 114 ofertas válidas encontradas
+2025-03-28 17:36:59,469 - INFO - Mejor oferta seleccionada: Android 14 Tablet 10.1 22+128gb 5g 8000mah Con Teclado Ratón - Descuento: 70% - Score: 105.0
+2025-03-28 17:36:59,469 - WARNING - La mejor oferta tiene una URL de tracking no resuelta: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count
+2025-03-28 17:36:59,469 - WARNING - No se pudo limpiar la URL: https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count
+2025-03-28 17:36:59,481 - INFO - Scraper programado para ejecutarse cada 8 horas (00:00, 08:00, 16:00)
+2025-03-28 17:40:39,256 - INFO - Scraper detenido manualmente
