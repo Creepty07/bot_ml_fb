@@ -210,35 +210,21 @@ async function postOfferToFacebook(offer, attempt = 1) {
 Oferta obtenida mediante búsqueda pública
     `.trim();
     
-    let imageData;
-    try {
-      imageData = await downloadAndValidateImage(offer.imagen);
-    } catch (imageError) {
-      // Intento con imagen alternativa si está disponible
-      if (offer.imagen_alternativa) {
-        log(`Usando imagen alternativa para ${offer.titulo}`);
-        imageData = await downloadAndValidateImage(offer.imagen_alternativa);
-      } else {
-        throw imageError;
-      }
-    }
+    // Preparamos los datos para una publicación de tipo enlace
+    const postData = {
+      message: message,
+      link: offer.enlace, // Usamos el enlace directo al producto
+      access_token: FACEBOOK_ACCESS_TOKEN
+    };
 
-    const formData = new FormData();
-    formData.append('source', imageData.buffer, {
-      filename: `offer_${Date.now()}.${imageData.contentType.split('/')[1] || 'jpg'}`,
-      contentType: imageData.contentType
-    });
-    formData.append('message', message);
-
+    // Usamos el endpoint /feed en lugar de /photos para crear una publicación normal
     const response = await axios.post(
-      `https://graph.facebook.com/v16.0/${FACEBOOK_PAGE_ID}/photos`,
-      formData,
+      `https://graph.facebook.com/v16.0/${FACEBOOK_PAGE_ID}/feed`,
+      postData,
       {
         headers: {
-          ...formData.getHeaders(),
-          'Authorization': `Bearer ${FACEBOOK_ACCESS_TOKEN}`
+          'Content-Type': 'application/json'
         },
-        maxContentLength: 10 * 1024 * 1024,
         timeout: 30000
       }
     );
